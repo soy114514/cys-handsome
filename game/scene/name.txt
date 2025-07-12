@@ -1,3 +1,0 @@
-changeBg:none;
-getUserInput:name -title= 君の名は？ -buttonText=雀食;
-changeScene:章1.txt

@@ -1,2 +1,0 @@
-setVar:name=祝蕉
-changeScene:章1.txt
