@@ -1,0 +1,7 @@
+; 初始场景，以及特效演示
+bgm:明愛粉嶺陳震夏中學 ｜ 校歌.mp3;
+unlockBgm:明愛粉嶺陳震夏中學 ｜ 校歌.mp3 -name=校歌;
+changeBg:章节1png.png -transform={};
+unlockCg:章节1png.png -name=章节1;
+changeBg:none;
+choose:我是...祝蕉！:预设.txt|我是...我是...我是三小？:name.txt;

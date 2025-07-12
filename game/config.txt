@@ -1,0 +1,10 @@
+Game_name:cys handsome;
+Game_key:8ecaddb457d802;
+Title_img:校园.png;
+Title_bgm:明愛粉嶺陳震夏中學 ｜ 校歌.mp3;
+Textbox_theme:imss;
+Game_Logo:校园.png;
+Package_name:cys handsome;
+Description:;
+Enable_Appreciation:true;
+Default_Language:zh_CN;

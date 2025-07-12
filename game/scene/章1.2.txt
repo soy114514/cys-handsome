@@ -1,0 +1,19 @@
+bgm:ysbgm.mp3;
+unlockBgm:ysbgm.mp3 -name=ys;
+changeBg:校長室.png -next;
+unlockCg:校長室.png -name=校長室;
+changeFigure: -id=2 -next;
+changeFigure:momo.png -right -id=3 -transform={"position":{"x":-200,"y":400},"scale":{"x":1.5,"y":1.5}} -next;
+changeFigure:祝蕉正常.png -left -id=1 -transform={"position":{"x":200,"y":400},"scale":{"x":1.5,"y":1.5}} -next;
+MOMO:同學，欢迎你來到我們CYS的大家庭|希望你能享受及下来在这个学校度过的日子 -dznihao.wav -right;
+顺带一提|我们学校有四个風雲校園的Handsome boys ～ -right;
+有二位你已經見過了;
+祝蕉:是誰？ -huhcat.wav;
+MOMO:就是送你來的羅志祥同學还有站在校门口的雍震同學 -dzcheese.wav;
+還有三位分別是一一馬雲、楠同|有一位最特别的，他是老師叫希兒;
+一一总之你听到哪里尖叫声最大的地方就一定是他们在 -搞比利_01.wav;
+changeFigure:祝蕉慌张.png -left -id=1 -transform={"position":{"x":200,"y":400},"scale":{"x":1.5,"y":1.5}} -next;
+祝蕉:丁真？羅志祥可从来没有跟我说过这些呀！;
+changeFigure:momokfc.png -right -id=3 -transform={"position":{"x":-200,"y":400},"scale":{"x":1.5,"y":1.5}} -next;
+MOMO:總之，enjoy your school life吧|（抱著KFC全家桶）;
+changeScene:章1.3.txt
