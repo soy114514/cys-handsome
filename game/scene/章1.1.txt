@@ -9,6 +9,7 @@ changeFigure:羅志祥奔跑.GIF -right -id=2 -transform={"position":{"x":400}};
 changeFigure:祝蕉奔跑.GIF -left -id=1 -transform={"position":{"x":-400}};
 unlockCg:祝蕉奔跑.GIF -name=祝蕉奔跑;
 unlockCg:羅志祥奔跑.GIF -name=羅志祥奔跑;
+setTextbox:on;
 :祝蕉、羅志祥在最後一刻衝進校門;
 playEffect:选择效果音文件 -id=1;
 :且祝蕉的肛門因為放鬆下來 -来一起拉大便_01.wav;
@@ -21,7 +22,6 @@ unlockBgm: -name=ass;
 bgm:ass.mp3 -volume=100;
 :放了一個堪比原子弹威力的屁 -卧槽~.wav;
 :方原幾里的草都給崩飛了！ -fontSize=large;
-setTextbox:hide -next;
 changeBg:校园.png -next;
 changeFigure:祝蕉正常.png -left -id=1 -transform={"position":{"x":200,"y":400},"scale":{"x":1.5,"y":1.5}} -next;
 changeFigure:罗志祥.png -id=2 -transform={"position":{"y":500},"scale":{"x":1.5,"y":1.5}} -next;
@@ -38,4 +38,4 @@ changeFigure:雍震推眼鏡.png -right -id=3 -transform={"position":{"x":-300,"
 :（雍震用中指推了一下眼鏡，並發出一阵令人闻风丧胆的冷笑) -哈哈哈哈哈_01.wav;
 雍震:（interesting，居然能让他如此的庇护到底是谁） -(为什么你这么会撩（蔡徐坤）.mp3;
 （这个香蕉头我記著了）;
-changeScene:章1.2.txt-
+changeScene:章1.2.txt

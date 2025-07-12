@@ -1,5 +1,5 @@
 bgm:FloridaWhistle.mp3 -volume=100;
-unlockBgm: -name=FloridaWhistle;
+unlockBgm:FloridaWhistle.mp3 -name=FloridaWhistle;
 changeBg:教室門口.png -next;
 unlockCg:教室門口.png -name=教室門口;
 changeFigure: -id=1 -next;

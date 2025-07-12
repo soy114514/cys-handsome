@@ -1,5 +1,5 @@
 bgm:dietommas.mp3 -volume=100;
-unlockBgm: -name=dietommas;
+unlockBgm:dietommas.mp3 -name=dietommas;
 changeBg:班房.png -next;
 unlockCg:教室門口.png -name=教室門口;
 changeFigure: -id=1 -next;

@@ -1,4 +1,5 @@
 bgm:ysbgm.mp3;
+unlockBgm:ysbgm.mp3 -name=ys;
 changeBg:校長室.png -next;
 unlockCg:校長室.png -name=校長室;
 changeFigure: -id=2 -next;
@@ -15,4 +16,4 @@ changeFigure:祝蕉慌张.png -left -id=1 -transform={"position":{"x":200,"y":40
 祝蕉:丁真？羅志祥可从来没有跟我说过这些呀！;
 changeFigure:momokfc.png -right -id=3 -transform={"position":{"x":-200,"y":400},"scale":{"x":1.5,"y":1.5}} -next;
 MOMO:總之，enjoy your school life吧|（抱著KFC全家桶）;
-changeScene:选择场景文件;
+changeScene:章1.3.txt
